@@ -1,0 +1,10 @@
+name: Block ID
+description: 'Add options block ID.'
+core: 8.x
+type: module
+version: '8.1.1'
+project: block_id
+dependencies:
+  - drupal:block
+
+#configure: message_time.settings_form
