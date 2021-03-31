@@ -1,0 +1,14 @@
+{
+  "name": "anishsheela/block_id",
+  "type": "drupal-module",
+  "description": "Add Block ID in Block.",
+  "keywords": ["Drupal"],
+  "homepage": "https://github.com/anishsheela/block_id",
+  "license": "GPLv3",
+  "minimum-stability": "dev",
+  "extra": {
+    "branch-alias": {
+      "8.x-1.x": "1.x-dev"
+    }
+  }
+}
